@@ -12,9 +12,9 @@ What is the output?
 
     if (exampleArray[ i ] > maximum) {
 
-      maximum = exampleArray[ i ];
+     maximum = exampleArray[ i ];
 
-      index = i;
+     index = i;
 
     }
 
