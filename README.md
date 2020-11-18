@@ -10,15 +10,15 @@ What is the output?
 
 * for (int i = 1; i<exampleArray.length>; i++){
 
-  if (exampleArray[ i ] > maximum) {
+    if (exampleArray[ i ] > maximum) {
 
-    maximum = exampleArray[ i ];
+      maximum = exampleArray[ i ];
 
-    index = i;
+      index = i;
+
+    }
 
   }
-
-}
 
 * System.out.println(index);
 
